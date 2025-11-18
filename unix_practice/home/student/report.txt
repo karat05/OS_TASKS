@@ -1,0 +1,6 @@
+total 16
+drwxrwxrwx+ 2 vscode vscode 4096 Nov 18 20:51 Learning
+drwxrwxrwx+ 5 vscode vscode 4096 Nov 18 20:51 Python
+drwxrwxrwx+ 5 vscode vscode 4096 Nov 18 20:51 Website
+drwxr-xr-x+ 5 vscode vscode 4096 Nov 18 21:07 Website_Old
+13
